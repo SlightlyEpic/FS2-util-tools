@@ -1,2 +1,2 @@
 # FS2-util-tools
- i just wanted to try out electron
+Collection of useful tools for FS2
